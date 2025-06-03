@@ -1,0 +1,35 @@
+.form-container {
+  margin-bottom: 20px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 6px 12px;
+}
+
+.grid-container {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
